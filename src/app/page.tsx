@@ -1,8 +1,5 @@
-import Forms from "./components/Forms";
-import Grid from "./components/Grid";
 import HeroSection from "./components/HeroSection";
 import Link from "next/link";
-import toyotacorolla from "./toyota-corolla/page";
 export default function Home() {
   return (
     <div className="min-h-screen bg-black">
